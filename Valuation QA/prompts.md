@@ -1,0 +1,4 @@
+- What is the expected IRR based on our Petbarn valuation model?
+- Generate a docx summarising this model.
+- Email this to ajmalaziz@google.com with the subject "Petbarn valuation summary"
+- (Optional) The body can be a quick summary
