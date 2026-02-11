@@ -1,0 +1,6 @@
+- Are there any claims unsubstantiated by data?
+- Are there inconsistencies across documents?
+- Are there any commercial red flags?
+- What was the FY23 reported EBITDA?
+- Who is the insurer for Public & Products Liability?
+- What was the largest insurance claim by Target Co Pty Ltd?
